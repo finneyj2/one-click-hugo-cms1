@@ -2,8 +2,7 @@
 title: 'Grader Grouper'
 date: 2019-01-04T15:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+A description of my experiences working on the Gator Grouper tool
 ---
 
 During this semester, I worked on contributing to the GatorGrouper tool. My
