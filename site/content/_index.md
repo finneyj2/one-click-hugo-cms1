@@ -7,7 +7,7 @@ blurb:
 
 products:
     - image:
-      text: "Hell0, I am a psychology major and computer science minor that is interested in fields where there are strong intersections between the two, such as: human Computer Interaction and Human Factors Psychology. On this website, you'll find my contact information as well as links to my Github and LinkedIn accounts respectively"
+      text: "Hello, I am a psychology major and computer science minor that is interested in fields where there are strong intersections between the two, such as: human Computer Interaction and Human Factors Psychology. On this website, you'll find my contact information as well as links to my Github and LinkedIn accounts respectively"
     - image:
       text:
 
