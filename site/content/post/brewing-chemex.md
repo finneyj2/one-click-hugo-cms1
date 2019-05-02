@@ -8,15 +8,16 @@ image: /img/blog-chemex.jpg
 ---
 
 For the past several weeks, my team and I have been working on a tool called
-IRBeast. IRBeast is a tool that is intended to ease the IRB process. The way it
-intends to do this is to present the students with a list of statements.
-The statements are a combination of IRB suggestions on what to do, and what
-things that they should avoid.
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
-
-## The little secrets of Chemex brewing
-
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+IRBeast. IRBeast is a tool that is intended to ease the IRB process, although
+production of the tool is still in progress. The way it intends to do this is to
+present the students with a list of statements. The statements are a combination
+of IRB suggestions on what to do, and what things that they should avoid. For
+example some statements advise people to explain any and all terminology to use.
+While other statements advise the students on what to avoid(i.e advertising
+without irb approval). This will be done by storing identifiers such as major
+or student ID into the database that had been set up. The database will keep
+record of how many statements the student was able to check off. And it will
+also store how many times the irb request had been submitted.
 
 1. Always buy dedicated Chemex filters.
 2. Use a scale, don’t try to eyeball it.
