@@ -19,11 +19,8 @@ or student ID into the database that had been set up. The database will keep
 record of how many statements the student was able to check off. And it will
 also store how many times the irb request had been submitted.
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
-
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+EVen though I found this experience to be enjoyable, I struggled thoroughly with
+learning how to use AWS. Specifically, I initially struggled with making the
+table and with doing database integration. This was because I was very unfamiliar
+with aws, and it was difficult for me to find tutorials that were relevant to
+this project. Ultimately, I found this experience to be a very rewarding one. 
